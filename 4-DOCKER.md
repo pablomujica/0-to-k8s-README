@@ -23,7 +23,7 @@ Get the repository with the deployment file:
 ``` bash
 $ cd ..
 $ git clone https://github.com/pablomujica/5-to-k8s-Deployment
-$ cd https://github.com/pablomujica/5-to-k8s-Deployment
+$ cd 5-to-k8s-Deployment
 ```
 
 In the deployment `flask-app.yaml`, you define the spec for the app deployment:
