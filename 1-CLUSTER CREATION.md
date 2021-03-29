@@ -4,8 +4,8 @@
 
 Get the repository with the base files:
 ``` bash
-$ git clone https://github.com/pablomujica/2-to-k8s-HELM
-$ cd 2-to-k8s-HELM
+$ git clone https://github.com/pablomujica/1-to-k8s-AKS
+$ cd 1-to-k8s-AKS
 ```
 
 
